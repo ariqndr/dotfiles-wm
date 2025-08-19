@@ -1,0 +1,2 @@
+input-remapper-service
+bspwm
